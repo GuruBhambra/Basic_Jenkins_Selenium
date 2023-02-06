@@ -39,7 +39,7 @@ public class LoginStepDefination {
 	@Then("User lands on the home page")
 	public void user_lands_on_the_home_page() {
 		loginPage.searchMyBook();
- System.out.println("Thank you");
+		System.out.println("Thank you your execution is done");
 	}
 
 }
